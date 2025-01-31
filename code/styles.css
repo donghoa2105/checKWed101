@@ -1,0 +1,84 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Header styling */
+  header {
+    background-color: #f0f0f0;
+    /* light gray background for header */
+    padding: 20px;
+  }
+  
+  /* Navigation styling */
+  nav {
+    background-color: #333;
+    /* dark background for navigation */
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Main content styling */
+  main {
+    background-color: #fafafa;
+    /* light background for main content */
+    font-size: 18px;
+    padding: 20px;
+  }
+  
+  /* Footer styling */
+  footer {
+    background-color: #333;
+    /* dark footer */
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* List item styling */
+  li {
+    display: inline-block;
+    width: 30%;
+    /* setting the width of list items */
+    padding: 10px;
+  }
+  
+  /* h1 styling */
+  h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+    /* dark text color */
+  }
+  
+  /* Paragraph styling */
+  p {
+    line-height: 1.6;
+  }
+  
+  /* Link styling */
+  a {
+    color: #3498db;
+    /* blue color for links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
